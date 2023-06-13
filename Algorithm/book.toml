@@ -1,0 +1,6 @@
+[book]
+authors = ["kkthmyh"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Algorithm"
