@@ -30,6 +30,11 @@
 - [两个数组的交集（leetcode349）](./leetcode/leetcode349.md)
 - [快乐数（leetcode202）](./leetcode/leetcode202.md)
 - [两数之和 (leetcode1)](./leetcode/leetcode1.md)
+- [四数相加II (leetcode454)](./leetcode/leetcode454.md)
+- [赎金信 (leetcode383)](./leetcode/leetcode383.md)
+- [三数之和 (leetcode15)](./leetcode/leetcode15.md)
+- [四数之和 (leetcode18)](./leetcode/leetcode18.md)
+
 
 
 
