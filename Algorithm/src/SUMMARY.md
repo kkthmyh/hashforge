@@ -35,6 +35,13 @@
 - [三数之和 (leetcode15)](./leetcode/leetcode15.md)
 - [四数之和 (leetcode18)](./leetcode/leetcode18.md)
 
+# 字符串
+- [反转字符串（leetcode344）](./leetcode/leecode344.md)
+- [替换空格（剑指offer05）](./offer/offer05.md)
+- [找出字符串中第一个匹配项的下标（leetcode28）](./leetcode/leetcode28.md)
+
+# 栈和队列
+- [栈和队列理论基础]()
 
 
 
