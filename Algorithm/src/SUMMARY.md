@@ -44,6 +44,8 @@
 - [栈和队列理论基础]()
 - [有效的括号（leetcode20）](./leetcode/leecode20.md)
 - [逆波兰表达式求值（leetcode150）](./leetcode/leecode150.md)
+- [滑动窗口最大值（leetcode239）](./leetcode/leecode239.md)
+- [前k个高频率元素（leetcode347）](./leetcode/leecode347.md)
 
 
 
