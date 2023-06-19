@@ -42,6 +42,8 @@
 
 # 栈和队列
 - [栈和队列理论基础]()
+- [有效的括号（leetcode20）](./leetcode/leecode20.md)
+- [逆波兰表达式求值（leetcode150）](./leetcode/leecode150.md)
 
 
 
